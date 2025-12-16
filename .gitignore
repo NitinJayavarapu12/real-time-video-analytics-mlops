@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data Files
+data/raw/*
+data/processed/*
+
+# Model weights
+*.pt
+
+# MLflow logs
+mlruns/
+
+# OS junk
+.DS_Store
+Thumbs.db
